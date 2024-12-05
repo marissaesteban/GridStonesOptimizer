@@ -23,3 +23,7 @@ This project implements a computational geometry algorithm to solve grid-based q
 4. **Query Evaluation**: Iterates over all possible grid cells to determine the maximum number of stones within the query distance.
 
 5. **Output**: Prints the maximum stone count and corresponding coordinates for each query in each test case.
+
+
+License
+This project is open-source and available under the MIT License.
